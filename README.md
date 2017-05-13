@@ -1,0 +1,2 @@
+# Stornodog
+New cash
